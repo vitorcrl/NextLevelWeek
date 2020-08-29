@@ -10,5 +10,19 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorcrl/NextLevelWeek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorcrl/NextLevelWeek/issues"
+  },
+  "homepage": "https://github.com/vitorcrl/NextLevelWeek#readme"
 }
