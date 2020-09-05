@@ -1,5 +1,5 @@
 #page-landing {
-  background: var(--color-primary);
+  background: var(--color-teste); /*var(--color-primary);*/
 }
 
 #page-landing container {
@@ -20,7 +20,7 @@
   margin-top: 0.8rem;
 }
 .hero-image {
-  width: 100%;
+  width: 150%;
 }
 .buttons-container {
   display: flex;
@@ -64,14 +64,14 @@
 }
 .total-connections {
   /* colocar as conexoes realizadas e alinhar*/
-  font-size: 1.8rem;
+  font-size: 10rem;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 /* afastar um pouco o coracao roxo*/
 .total-connections img {
-  margin-left: 0.8rem;
+  margin-left: 3rem;
 }
 /* modificacao de tamanho para proporcao*/
 @media (max-width: 699px) {
