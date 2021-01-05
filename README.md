@@ -18,11 +18,9 @@ Essa Page Web e site Mobile, foram construidos em uma semana com algumas partes 
 
 - Express
 - Node
+- Css
 - Eslint
 - Java-Script
-- TypeScript
-- Docker
-- TypeOrm
 - Sqlite
 - ORM
 - Babel
