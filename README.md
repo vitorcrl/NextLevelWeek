@@ -10,9 +10,9 @@ Nesse NLW 3 criamos um Site e um App para encontrar lar de crianças abandonadas
 
 Essa Page Web e site Mobile, foram construidos em uma semana com algumas partes pré-prontas com o design disponivel no Figma
 
-[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FnzKZNkNhFiEzg7J4ur3Vxy%2FHappy-Web-(Copy)%3Fnode-id%3D0%253A1](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FnzKZNkNhFiEzg7J4ur3Vxy%2FHappy-Web-(Copy)%3Fnode-id%3D0%253A1)
+[https://www.figma.com/file/YPhzjZKfzsB9QMu2QPIDak/Happy-Mobile-(Copy)?node-id=0%3A1](https://www.figma.com/file/YPhzjZKfzsB9QMu2QPIDak/Happy-Mobile-(Copy)?node-id=0%3A1)
 
-[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYPhzjZKfzsB9QMu2QPIDak%2FHappy-Mobile-(Copy)%3Fnode-id%3D0%253A1](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYPhzjZKfzsB9QMu2QPIDak%2FHappy-Mobile-(Copy)%3Fnode-id%3D0%253A1)
+[https://www.figma.com/file/nzKZNkNhFiEzg7J4ur3Vxy/Happy-Web-(Copy)?node-id=0%3A1](https://www.figma.com/file/nzKZNkNhFiEzg7J4ur3Vxy/Happy-Web-(Copy)?node-id=0%3A1)
 
 ### ⭐Tecnologias Utilizadas:⭐
 
